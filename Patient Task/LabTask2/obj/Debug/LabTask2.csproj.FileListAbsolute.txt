@@ -1,0 +1,7 @@
+E:\AIUB\5th Sem Spring 23-24\C#\My C# Codes\Lab Task 2\LabTask2\LabTask2\bin\Debug\LabTask2.exe.config
+E:\AIUB\5th Sem Spring 23-24\C#\My C# Codes\Lab Task 2\LabTask2\LabTask2\bin\Debug\LabTask2.exe
+E:\AIUB\5th Sem Spring 23-24\C#\My C# Codes\Lab Task 2\LabTask2\LabTask2\bin\Debug\LabTask2.pdb
+E:\AIUB\5th Sem Spring 23-24\C#\My C# Codes\Lab Task 2\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.AssemblyReference.cache
+E:\AIUB\5th Sem Spring 23-24\C#\My C# Codes\Lab Task 2\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.CoreCompileInputs.cache
+E:\AIUB\5th Sem Spring 23-24\C#\My C# Codes\Lab Task 2\LabTask2\LabTask2\obj\Debug\LabTask2.exe
+E:\AIUB\5th Sem Spring 23-24\C#\My C# Codes\Lab Task 2\LabTask2\LabTask2\obj\Debug\LabTask2.pdb
