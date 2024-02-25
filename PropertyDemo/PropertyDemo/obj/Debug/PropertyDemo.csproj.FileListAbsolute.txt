@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\PropertyDemo\PropertyDemo\bin\Debug\PropertyDemo.exe.config
+C:\Users\Teacher\source\repos\PropertyDemo\PropertyDemo\bin\Debug\PropertyDemo.exe
+C:\Users\Teacher\source\repos\PropertyDemo\PropertyDemo\bin\Debug\PropertyDemo.pdb
+C:\Users\Teacher\source\repos\PropertyDemo\PropertyDemo\obj\Debug\PropertyDemo.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\PropertyDemo\PropertyDemo\obj\Debug\PropertyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\PropertyDemo\PropertyDemo\obj\Debug\PropertyDemo.exe
+C:\Users\Teacher\source\repos\PropertyDemo\PropertyDemo\obj\Debug\PropertyDemo.pdb
+E:\AIUB\5th Sem Spring 23-24\C#\Property and Const_readonly_keyword_Demo\PropertyDemo\PropertyDemo\obj\Debug\PropertyDemo.csproj.AssemblyReference.cache
+E:\AIUB\5th Sem Spring 23-24\C#\Property and Const_readonly_keyword_Demo\PropertyDemo\PropertyDemo\obj\Debug\PropertyDemo.csproj.CoreCompileInputs.cache
+E:\AIUB\5th Sem Spring 23-24\C#\Property and Const_readonly_keyword_Demo\PropertyDemo\PropertyDemo\obj\Debug\PropertyDemo.exe
+E:\AIUB\5th Sem Spring 23-24\C#\Property and Const_readonly_keyword_Demo\PropertyDemo\PropertyDemo\obj\Debug\PropertyDemo.pdb
